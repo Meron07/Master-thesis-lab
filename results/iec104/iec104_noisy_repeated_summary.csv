@@ -1,3 +1,0 @@
-condition,runs,tp_mean,tp_std,fp_mean,fp_std,tn_mean,tn_std,fn_mean,fn_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,fpr_mean,fpr_std,accuracy_mean,accuracy_std
-noisy_baseline,10,0.0,0.0,26.3,3.4366,4.3,2.6096,0.0,0.0,,,,,,,0.8574,0.0913,0.1426,0.0913
-noisy_replay,10,26.3,3.4366,0.0,0.0,0.0,0.0,4.3,2.6096,1.0,0.0,0.8574,0.0913,0.9205,0.0564,,,,
