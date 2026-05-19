@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Secrets
+*.key
+*.pem
+*.env
+id_rsa
+id_rsa.pub
+
+# Thesis documents
+*.pdf
+*.docx
+*.odt
+*.tex
+*.bib
+
+# Large captures blocked by default
+*.pcap
+*.pcapng
+
+# Allow only selected sample captures
+!data/sample_pcaps/**/*.pcap
+!data/sample_pcaps/**/*.pcapng
+
+# Third-party libraries
+libiec61850/
+lib60870/
+miniconda3/
+
+# OS files
+.DS_Store
+Thumbs.db
