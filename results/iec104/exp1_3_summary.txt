@@ -1,0 +1,12 @@
+Experiment 1.3 – Timing-Based Detection Summary
+
+Lower threshold (1%): 0.000000141 s
+Upper threshold (99%): 1.015235081 s
+
+Packets analyzed: 535
+Anomalies found: 19
+
+flag
+too_slow_vs_baseline    13
+too_fast_vs_baseline     6
+Name: count, dtype: int64
