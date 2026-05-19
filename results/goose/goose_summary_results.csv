@@ -1,0 +1,4 @@
+mode,tp_mean,tp_std,fp_mean,fp_std,tn_mean,tn_std,fn_mean,fn_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std
+baseline,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mixed,4.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.5,0.0,0.6666666666666666,0.0
+replay,8.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.6666666666666666,0.0,0.8,0.0

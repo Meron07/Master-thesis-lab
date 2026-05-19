@@ -1,0 +1,13 @@
+Experiment 1.6 - Sliding-window detection
+
+Baseline: /home/kali/iec104-lab/data/exp1_7_noisy_baseline_features.csv
+Test:     /home/kali/iec104-lab/multi_runs_real/features/noisy_baseline/run_1_features.csv
+
+gap_s   = 3.0
+win_s   = 10.0
+step_s  = 1.0
+alarm_n = 5
+
+ALARM: triggered at window_start_epoch=1774867493.997476
+
+Saved window timeline: /home/kali/iec104-lab/results/exp1_6_windows_run_1_features.csv

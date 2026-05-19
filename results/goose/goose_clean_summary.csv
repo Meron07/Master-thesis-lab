@@ -1,0 +1,4 @@
+mode,precision_mean,recall_mean,f1_mean
+baseline,0.0,0.0,0.0
+mixed,1.0,0.5,0.6666666666666666
+replay,1.0,0.6666666666666666,0.8

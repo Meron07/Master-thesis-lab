@@ -1,0 +1,24 @@
+Experiment 1.5 — Replay-in-time Detection Summary
+
+Baseline: ../data/exp1_5_baseline_features.csv
+Test:     ../data/exp1_5_mimic_features.csv
+Gap threshold: 10.0 seconds
+
+Total packets (test): 393
+Packets matching baseline patterns: 155
+Suspicious reappearances: 155
+Unique suspicious packet patterns: 79
+
+Top repeated suspicious patterns (count):
+packet_id
+192.168.100.20_192.168.100.10_29_0     8
+192.168.100.20_192.168.100.10_85_0     8
+192.168.100.20_192.168.100.10_169_0    8
+192.168.100.20_192.168.100.10_141_0    8
+192.168.100.20_192.168.100.10_113_0    8
+192.168.100.20_192.168.100.10_57_0     8
+192.168.100.20_192.168.100.10_1_0      7
+192.168.100.20_192.168.100.10_197_0    6
+192.168.100.20_192.168.100.10_163_0    5
+192.168.100.20_192.168.100.10_51_0     4
+Name: count, dtype: int64

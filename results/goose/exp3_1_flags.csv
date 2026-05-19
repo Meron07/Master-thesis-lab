@@ -1,0 +1,9 @@
+frame.time_epoch,eth.src,eth.dst,goose.gocbRef,goose.stNum,goose.sqNum,frame.len,replay_alert
+1772896228.536268,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,0,202,0
+1772896228.536268,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,0,202,1
+1772896229.537998,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,1,202,0
+1772896229.537998,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,1,202,1
+1772896230.539741,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,2,202,0
+1772896230.539741,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,2,202,1
+1772896231.541833,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,3,205,0
+1772896231.541833,08:00:27:b0:8c:2e,01:0c:cd:01:00:01,simpleIOGenericIO/LLN0$GO$gcbAnalogValues,1,3,205,1

@@ -1,0 +1,7 @@
+Experiment 2.0 — IEC-104 APCI I-frame Sequence Validation
+
+Input: ../data/exp2_0_baseline_payload_stream.csv
+Parsed valid I-frames: 941
+Backward N(S) anomalies: 0
+
+Saved anomalies CSV: /home/kali/iec104-lab/results/exp2_0_apci_anomalies_exp2_0_baseline_payload_stream.csv
